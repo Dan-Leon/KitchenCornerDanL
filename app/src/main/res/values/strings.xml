@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KitchenCornerDanL</string>
+    <string name="txtlogin">Login</string>
+    <string name="txtpassword">Password</string>
+    <string name="txtloginhint">Enter Login ID</string>
+    <string name="txtloginbttn">Logon</string>
+    <string name="txtrecipebookbttn">Recipe Book</string>
+    <string name="profilepicdescr">Profile Picture</string>
+    <string name="accountkitchenpicdescr">Gourmet Kitchen Account</string>
+    <string name="profilebttn">Profile</string>
+    <string name="logooutbttn">Log Out</string>
+
+    <string name="recipe_name">Recipe Name</string>
+    <string name="recipe_img">Recipe Image</string>
+    <string name="recipe_desc">Recipe Description</string>
+
+    <string name="errMessageLogin">Invalid Login.   Please retry.</string>
+    <string name="errMessagePassword">Invalid Password. Please retry.</string>
+
+</resources>
